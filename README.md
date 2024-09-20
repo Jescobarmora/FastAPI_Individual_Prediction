@@ -1,0 +1,1 @@
+# FastAPI_Individual_Prediction
